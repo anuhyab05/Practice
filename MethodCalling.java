@@ -1,5 +1,11 @@
 class MethodCalling{
 
+/**
+ *
+ *@author Anuhya B
+ *
+*/
+
 public static void main(String args[]){
 
 // calling static method from static method
