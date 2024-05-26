@@ -2,7 +2,7 @@ class MethodCalling{
 
 /**
  *
- *@author Anuhya B
+ *@author Anuhya Bejjanki
  *
 */
 
